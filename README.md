@@ -1,5 +1,8 @@
 # 🎓 Proyek Akhir - Simple LMS Backend
 
+## Link YouTube
+- https://youtu.be/u_IdNdQe7bs?si=1hk6l8AKqWbWe_89
+
 ## ✅ Fitur yang Sudah Selesai (15 Poin)
 -  Register
 -  Batch Enroll Students
@@ -12,7 +15,7 @@
 -  Profile Management
 -  Content Completion Tracking
 
-## 📁 Struktur Penting
+## 📁 Struktur
 - `Dockerfile` — Konfigurasi Python
 - `docker-compose.yml` — Setup PostgreSQL, Redis, Django
 - `code/lms_core/models.py` — Model basis data
